@@ -1,4 +1,3 @@
-คู่มือการใช้เว็บไซต์
 1. ดาวน์โหลด Node.js : https://nodejs.org/en
 2. เปิดโฟลเดอร์ frontend และ backend ที่อยู่ในโฟลเตอร์ Website
 - เปิด Visual studio code >> เปิดโฟลเดอร์ backend
